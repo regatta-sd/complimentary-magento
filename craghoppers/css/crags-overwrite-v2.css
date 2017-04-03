@@ -5504,6 +5504,7 @@ h2.pageSection--pageTop__justHeading {
 	max-width: 46%;
 	padding-top: 24%;
 	margin-top: -5%;
+	padding-right: 10%;
 }
 
 .lookbook__techBlurb p {
@@ -6905,4 +6906,3 @@ input[type="checkbox"] + label {
 	width: 30px;
 }
 /* END */ 
-
