@@ -3691,7 +3691,7 @@ a.lev-photoGrid__button:hover {
 }
 
 #customer-reviews dl dd {
-	padding: 10px 60px;
+	padding: 10px 60px 40px;
 	border-bottom: none;
 }
 
@@ -5504,6 +5504,7 @@ h2.pageSection--pageTop__justHeading {
 	max-width: 46%;
 	padding-top: 24%;
 	margin-top: -5%;
+	padding-right: 10%;
 }
 
 .lookbook__techBlurb p {
@@ -6906,6 +6907,7 @@ input[type="checkbox"] + label {
 }
 /* END */ 
 
+
 /* Destination Kit Guide Dump */
 
 .messages {
@@ -7458,3 +7460,4 @@ div.half img {
 }
 
 /* Kit Guide END */
+
