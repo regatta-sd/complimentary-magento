@@ -7461,3 +7461,8 @@ div.half img {
 
 /* Kit Guide END */
 
+.cms-competition-form .toggles label,
+.cms-competition-form .toggles select {
+    width: 100%;
+}
+
