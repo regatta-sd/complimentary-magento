@@ -7145,13 +7145,6 @@ div#field_846 .input-box {
 	font-family: 'montserratbold', 'Arial Black', Gadget, Helvetica, Arial, sans-serif;
 }
 
-.input-box {
-	float: right;
-	width: 65%;
-	position: relative;
-	margin-top: -7%;
-}
-
 div#field_846 input {
 	height: 50px;
 	width: 90%;
@@ -7461,8 +7454,58 @@ div.half img {
 
 /* Kit Guide END */
 
+/* Competition Form */
 .cms-competition-form .toggles label,
 .cms-competition-form .toggles select {
     width: 100%;
 }
 
+.cms-competition-form .redeye-form .input-box {
+	float: left;
+	width: 100%;
+	margin-top: 0;
+}
+
+.cms-competition-form .redeye-form .input-box input.input-text {
+    width: 100% !important;
+}
+.competitionterms {
+	margin-top: 1%;
+	border: 1px solid;
+	padding: 1%;
+	margin-bottom: 1%;
+	cursor: pointer;
+}
+
+.competitionterms h3{
+	margin:0;
+	font-weight: bold;
+}
+
+.competitionterms--card {
+    display: none;
+}
+
+.competitionterms--card.topen {
+    display: block;
+	margin-top:0.5%;
+}
+
+.competitionterms h3:after {
+    border-style: solid;
+    border-width: 10px 10px 0 10px;
+    border-color: #000 transparent transparent transparent;
+    content: '';
+    float: right;
+    margin-top: 0.5%;
+}
+.competitionterms h3.topen:after{
+	border-style: solid;
+	border-width: 0 10px 10px 10px;
+	border-color: transparent transparent #000 transparent;
+	content: '';
+    float: right;
+    margin-top: 0.5%;
+}
+
+/* END */
