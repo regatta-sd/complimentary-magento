@@ -7461,8 +7461,20 @@ div.half img {
 
 /* Kit Guide END */
 
+/* Competition Form */
 .cms-competition-form .toggles label,
 .cms-competition-form .toggles select {
     width: 100%;
 }
 
+.cms-competition-form .redeye-form .input-box {
+	float: left;
+	width: 100%;
+	margin-top: 0;
+}
+
+.cms-competition-form .redeye-form .input-box input.input-text {
+    width: 100% !important;
+}
+
+/* END */
