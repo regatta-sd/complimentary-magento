@@ -3489,3 +3489,26 @@ div#header-account {
 
 
 /* END */
+
+/* FEEFO REVIEWS STYLE */
+#advancereviews-filters a{
+    font-weight: 900;
+    color: #6795CB;
+    position: relative;
+    width: 100%;
+    margin-bottom: 10px;
+    float: right;
+}
+
+#advancereviews-filteredReviews span{
+    color: #6795CB;
+}
+
+#advancereviews-filteredReviews span::after{
+    content:" ";
+    overflow:hidden;
+    color:transparent;
+    display: block;
+    margin-bottom: 10px;
+}
+/* END OF FEEFO */
