@@ -7509,3 +7509,13 @@ div.half img {
 }
 
 /* END */
+
+
+/****** NosiLife Banner CHDE *****/
+@media only screen and (max-width:480px) {
+	.pageSection--nosiBanner--mobile{
+		display: none;
+	}
+}	
+
+/****** END NosiLife Banner *****/

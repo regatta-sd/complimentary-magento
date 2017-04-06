@@ -1,5 +1,4 @@
 /******* German Specific Styles *********** */
-
 .technologiespopuplefthandside {
 	display: none;
 }
@@ -49,3 +48,25 @@ label[for="billing:use_for_shipping_no"]:after {
 h4.bannerOverlay__subTitle.bannerOverlay__subTitle--slider.bannerOverlay__subTitle--small {
     font-size: 12px;
 }
+
+
+/***** NosiLife Banner ****/
+img.nosilogo{
+	position: absolute;
+    top: 29%;
+    left: 46%;
+}
+
+.nosi-title-german{
+	position: absolute;
+    top: 60%;
+    left: 25%;
+    font-weight: 700;
+    color: white;
+    font-size: 2em;
+    text-transform: uppercase;  
+    max-width: 50%;
+    text-align: center;
+    text-shadow: 1px 1px #333333;
+} 
+/***** END OF Banner ******/
