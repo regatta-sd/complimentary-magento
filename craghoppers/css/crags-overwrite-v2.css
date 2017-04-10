@@ -7474,12 +7474,12 @@ div.half img {
 	border: 1px solid;
 	padding: 1%;
 	margin-bottom: 1%;
-	cursor: pointer;
 }
 
 .competitionterms h3{
 	margin:0;
 	font-weight: bold;
+	cursor: pointer;
 }
 
 .competitionterms--card {
@@ -7506,6 +7506,263 @@ div.half img {
 	content: '';
     float: right;
     margin-top: 0.5%;
+}
+
+.competition__container p{
+	width: 100% !important;
+	margin-top: 2%;
+}
+
+.competition__container .competitionterms--card p{
+	margin: 0;
+}
+
+/* END */
+
+/* Protect Liberate Campaign */
+/* Started all classes with pl- so can be dumped in new system */
+.pl-half {
+	width: 50%;
+	float: left;
+}
+
+.pl-third {
+	float: left;
+	width: 32.24%;
+}
+
+.pl-third:nth-child(2) {
+    margin: 0 1.64%;
+}
+
+.pl-wrapper {
+	float: left;
+	width: 100%;
+	text-align: center;
+	font-size: 22px;
+	letter-spacing: 1px;
+}
+
+.std .pl-wrapper p,
+.pl-wrapper img,
+.pl-third img {
+	width: 100%;
+}
+
+.pl-wrapper h1 span {
+	color: #961915;
+}
+
+.pl-wrapper h1 {
+	font-size: 40px;
+	margin: 2% 0;
+}
+
+.pl-text-margin {
+	margin-bottom: 3%;
+}
+
+.pl-text-font {
+	font-size: 32px;
+	font-family: Georgia, Times, "Times New Roman", serif !important; /* important overwrites helvetica */
+}
+
+.pl-georgia {
+	font-family: Georgia, Times, "Times New Roman", serif !important; /* important overwrites helvetica */
+}
+
+.std p.pl-apex-text {
+	width: 65%;
+	margin: 22% auto 4%;
+	font-size: 26px;
+	font-style: italic;
+}
+
+.pl-img__container {
+	float: left;
+	width: 100%;
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.pl-img__text {
+	text-decoration: underline;
+	width: 100%;
+	color: #fff;
+	float: left;
+	font-weight: bold;
+}
+
+.pl-img__container--men .pl-img__text {
+	margin-top: 56%;
+	margin-bottom: 30%;
+}
+
+.pl-img__container--women .pl-img__text {
+	margin-top: 61%;
+	margin-bottom: 29%;
+}
+
+.pl-img__container--men {
+	background-image: url('https://cdn.craghoppers.com/img/SS17/UK/page/protect_liberate/Midas.jpg');
+}
+
+.pl-img__container--women {
+	background-image: url('https://cdn.craghoppers.com/img/SS17/UK/page/protect_liberate/APEX.jpg');
+}
+.std p.pl-midas__text{
+	width: 80%;
+    margin: 0 auto;
+    clear: both;
+    margin-top: 15%;
+    display: inline-block;
+    font-size: 26px;
+}
+
+.pl-wrapper--cragsworld{
+	background-image: url('https://cdn.craghoppers.com/img/SS17/UK/page/protect_liberate/ThisIsCraghoppersWorld.jpg');
+	background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.std .pl-wrapper--cragsworld p {
+    color: white;
+    font-size: 50px;
+    margin: 12.9% 0;
+}
+
+.pl-half--background {
+    background-image: url(https://cdn.craghoppers.com/img/SS17/UK/page/protect_liberate/IconBG-Text.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.std .pl-half--background p {
+    color: #fff;
+    width: 88%;
+    margin: 25.5% auto;
+    font-size: 26px;
+}
+
+.std p.pl-text-liberate{
+	font-style: italic;
+    display: inline-block;
+    margin: 4% 0;
+}
+
+.pl-range-button {
+    display: inline-block;
+    text-transform: uppercase;
+    border: 2px solid #000;
+    font-size: 18px;
+    padding: 0.8% 0;
+    font-weight: bold;
+    margin: 3% 8% 0 8%;
+    width: 25%;
+    min-width: 307px;
+}
+
+.std p.pl-gender-head {
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 36px;
+    margin: 5% 0;
+}
+
+.pl-button {
+    border: 2px solid #000;
+    margin-top: 6%;
+    padding: 3% 0%;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+.std .pl-wrapper--social img {
+    display: inline-block;
+    max-width: 70px;
+    margin: 0 3%;
+}
+
+.std p.pl-text-social {
+    font-style: italic;
+    margin: 4% 0 3% 0;
+}
+
+.pl-wrapper--social {
+    margin-bottom: 2%;
+}
+
+@media only screen and (max-width: 1240px){
+
+	.std .pl-wrapper--cragsworld p {
+	    font-size: 4.05vw;
+	}
+
+	.std p.pl-apex-text,
+	.std p.pl-midas__text,
+	.std .pl-half--background p {
+    	font-size: 2.1vw;
+	}
+
+	.std p.pl-text-liberate{
+		font-size: 2.62vw;
+	}
+
+}
+
+@media only screen and (max-width: 767px){
+
+	.pl-half {
+    	width: 70%;
+    	float: none;
+    	margin: 0 auto;
+	}
+
+	.pl-half--background {
+    	background-size: cover;
+    	padding: 1%;
+	}
+
+	.pl-half img {
+	    display: none;
+	}
+	.std .pl-half--background p {
+    	margin: 27% auto;
+	}
+
+	.std p.pl-apex-text {
+    	margin: 6% auto 4%;
+	}
+
+	.std p.pl-midas__text {
+    	margin-top: 7%;
+	}
+
+	.pl-third:nth-child(2) {
+    margin: 0 0 0 1.64%;
+	}
+
+	.pl-third {
+	    float: left;
+	    width: 49%;
+	}
+
+	.pl-third:nth-child(3) {
+    	margin-top: 3%;
+	}
+
+	.std p.pl-apex-text, .std p.pl-midas__text, .std .pl-half--background p {
+    	font-size: 16px;
+	}
+
+}
+
+@media only screen and (max-width: 700px){
+	.pl-wrapper h1 {
+	    font-size: 6vw;
+	}
+
 }
 
 /* END */
