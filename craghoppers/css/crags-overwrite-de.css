@@ -80,11 +80,11 @@ img.nosilogo{
 /****** END NosiLife Banner *****/
 
 /****** Header Account Nav ******/
-#header-account li:nth-child(1){
+#header-account li:nth-child(1) {
     display: none;
 }
 
-#header-account li:nth-child(3){
+#header-account li:nth-child(3) {
     display: none;
 }
 /****** END ********/
