@@ -3512,3 +3512,26 @@ div#header-account {
     margin-bottom: 10px;
 }
 /* END OF FEEFO */
+
+.banner--yellow{
+    color:#ffcc00
+}
+
+/* Sale four blocks*/
+.fourblocks--saletext {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    background: red;
+    padding: 1% 0;
+    font-weight: bold;
+    margin-top: 68%;
+    font-size: 18px;
+}
+
+.fourblocks {
+    position: relative;
+}
+/* END */
