@@ -3564,6 +3564,11 @@ a:nth-child(4) .offers-box {
     font-size: 18px;
 }
 
+.offers-box--main-camping{
+    width: 20%;
+    padding: 5% 0;
+}
+
 @media only screen and (max-width:779px){
     .offers-box.offers-box--main {
         padding: 10% 0;
@@ -3581,4 +3586,11 @@ a:nth-child(4) .offers-box {
         margin-bottom: 0.5%;
     }
 
+    .offers-box--main-camping{
+        width: 95%;
+        padding: 10% 0;
+        display: table;
+    }
+
 }
+
