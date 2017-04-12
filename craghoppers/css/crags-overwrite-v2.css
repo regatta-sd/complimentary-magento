@@ -7652,7 +7652,7 @@ div.half img {
     font-weight: bold;
     margin: 3% 8% 0 8%;
     width: 25%;
-    min-width: 307px;
+    min-width: 250px;
 }
 
 .std p.pl-gender-head {
@@ -7804,12 +7804,23 @@ div.half img {
 		display: none;
 	}
 
+	.pl-cragsworld {
+    	font-size: 4.5vw;
+	}
+
 
 }
 
 @media only screen and (max-width: 700px){
 	.pl-wrapper h1 {
-	    font-size: 6vw;
+	    font-size: 5.5vw;
+	}
+
+}
+
+@media only screen and (max-width: 480px){
+	.pl-icon-text {
+	    font-size: 4vw;
 	}
 
 }
