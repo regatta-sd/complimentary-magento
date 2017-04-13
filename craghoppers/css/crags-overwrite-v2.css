@@ -7827,3 +7827,554 @@ div.half img {
 
 /* END */
 
+/* Kit Guide Page Dump */
+.messages {
+	display: none;
+}
+
+.top-bar .breadcrumbs {
+	display: none;
+}
+
+.mainpagecontent {
+	background-color: transparent !important;
+}
+
+.desktopwrapper {
+	width: 100%;
+	margin: 0 auto;
+	background: white;
+	font-family: 'montserratregular', 'Arial Black', Gadget, Helvetica, Arial, sans-serif;
+	max-width: 1140px;
+}
+
+.aboutus {
+	text-align: center;
+	font-size: 46px;
+}
+
+.socialicons {
+	float: right;
+	padding-bottom: 15px;
+	z-index: 1;
+	position: relative;
+}
+
+.hero {
+	display: none;
+}
+
+.Zrow {
+	width: 100%;
+	float: left;
+}
+
+.bannertext {
+	position: absolute;
+	margin-top: -189px;
+	margin-left: 8.2%;
+	color: white;
+	font-size: 47px;
+	font-weight: 300;
+	font-family: 'montserratbold', 'Arial Black', Gadget, Helvetica, Arial, sans-serif;
+}
+
+.tophalf {
+	width: 50%;
+	float: left;
+}
+
+.conditionstext {
+	margin-top: -108px;
+	position: absolute;
+	color: white;
+	text-transform: uppercase;
+	margin-left: 170px;
+	font-size: 27px;
+	font-weight: 500;
+	font-family: 'montserratbold', 'Arial Black', Gadget, Helvetica, Arial, sans-serif;
+}
+
+.seekit {
+	position: absolute;
+	margin-top: -55px;
+	color: white;
+	text-transform: uppercase;
+	margin-left: 220px;
+	font-weight: 400;
+	font-size: 22px;
+}
+
+.half {
+	float: left;
+	width: 50%;
+}
+
+.conditionsimg {
+	width: 25%;
+	float: left;
+}
+
+.conditionsproducts {
+	float: left;
+	width: 74%;
+}
+
+.productimg {
+	width: 33%;
+	float: left;
+}
+
+.shopbutton {
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+	color: white;
+	position: relative;
+	background: black;
+	padding: 4% 0;
+	text-transform: uppercase;
+	text-decoration: none;
+	margin-top: -9.5%;
+	font-weight: 500;
+	font-size: 16px;
+	font-family: 'montserratbold', 'Arial Black', Gadget, Helvetica, Arial, sans-serif;
+}
+
+.conditionslefttext {
+	position: absolute;
+	text-transform: uppercase;
+	margin-top: -837px;
+	margin-left: 2%;
+	width: 231px;
+}
+
+.condition {
+	text-align: center;
+	color: white;
+	font-size: 28px;
+	width: 40%;
+	margin-left: 25%;
+	margin-top: 3%;
+	line-height: 1.2;
+	font-family: 'montserratbold', 'Arial Black', Gadget, Helvetica, Arial, sans-serif;
+}
+
+.conditiontxt {
+	margin-top: 10%;
+	font-weight: 500;
+	font-size: 17px;
+	text-transform: none;
+	font-family: 'montserratregular', 'Arial Black', Gadget, Helvetica, Arial, sans-serif;
+}
+
+.totop {
+	float: left;
+	width: 100%;
+	text-align: right;
+	font-style: italic;
+	padding-top: 10px;
+	padding-bottom: 5px;
+}
+
+.destination {
+	font-weight: 300;
+	font-size: 40px;
+	line-height: 1.2;
+	width: 50%;
+	font-family: 'montserratbold', 'Arial Black', Gadget, Helvetica, Arial, sans-serif;
+}
+
+.destinationtxt {
+	width: 82%;
+	font-size: 16px;
+	font-family: 'montserratregular', 'Arial Black', Gadget, Helvetica, Arial, sans-serif;
+}
+
+.destinationwrapper {
+	padding-left: 12%;
+	padding-top: 5%;
+	padding-bottom: 3%;
+}
+
+.downarrow {
+	width: 10%;
+	position: relative;
+	margin-top: -10%;
+	margin-left: 80%;
+}
+
+.quote {
+	width: 100%;
+	margin: 0px auto;
+	font-family: 'montserratregular', 'Arial Black', Gadget, Helvetica, Arial, sans-serif;
+	font-weight: 300;
+	color: #767C80;
+	font-size: 52px;
+	text-align: center;
+	padding-top: 20px;
+	line-height: 1.2;
+}
+
+.jim {
+	color: #000;
+	text-align: center;
+	width: 66.7%;
+	margin: 0 auto;
+	font-size: 18px;
+	padding-bottom: 30px;
+}
+
+.tabletwrapper {
+	display: none;
+}
+
+div#field_846 {
+	padding-top: 0;
+	padding-bottom: 0;
+	background-color: #b8b8b8 !important;
+}
+
+div#field_843 {
+	display: none;
+}
+
+div#field_844 {
+	display: none;
+}
+
+div#field_845 {
+	display: none;
+}
+
+div#webform_54_form .std img {
+	display: none;
+}
+
+div#field_846 .input-box {
+	margin-top: -15%;
+}
+
+.form-list li label {
+	float: left;
+	font-weight: 500;
+	font-size: 16px;
+	width: 31%;
+	font-family: 'montserratbold', 'Arial Black', Gadget, Helvetica, Arial, sans-serif;
+}
+
+.input-box {
+	float: right;
+	width: 65%;
+	position: relative;
+	margin-top: -7%;
+}
+
+div#field_846 input {
+	height: 50px;
+	width: 90%;
+}
+
+.buttons-set p.required,
+.buttons-set a {
+	float: left;
+	text-align: left;
+	width: 30%;
+	margin-left: 3%;
+	color: black;
+	font-size: 12px;
+	font-weight: 500;
+}
+
+.form-list {
+	width: 95%;
+	margin: 0 auto;
+}
+
+div#webform_54_form {
+	background-color: #b8b8b8;
+}
+
+p.destinationformtext {
+	font-family: 'montserratregular', 'Arial Black', Gadget, Helvetica, Arial, sans-serif;
+	font-weight: 400;
+	width: 90% !important;
+	font-size: 15px;
+	float: none !important;
+	margin: 0 auto;
+	margin-top: 6%;
+	margin-bottom: 6%;
+}
+
+button#webform_54_submit_button {
+	background: url('https://d1khwdv4lze0nb.cloudfront.net/images/AW15/USA/Community/SubmitButton_149x48px.jpg') !important;
+	margin-right: 5.7%;
+	width: 148px;
+	height: 48px;
+	float: right;
+}
+
+button#webform_54_submit_button.button span {
+	display: none;
+}
+
+.buttons-set {
+	padding-bottom: 4%;
+}
+
+label.required em {
+	color: black;
+}
+
+.tablethalf {
+	width: 80% !important;
+	margin: 0 auto;
+	float: none;
+	clear: both;
+}
+
+li.fields div.webforms-fields-846 {
+	padding: 0;
+	background: transparent !important;
+	margin-right: 0;
+}
+
+.input-box input.input-text {
+	width: 95% !important;
+}
+
+.buttons-set button {
+	float: right;
+}
+
+li.fields div.webforms-fields-846 div.input-box {
+	margin-top: -13%;
+}
+
+li.fields input.validate-field-hint-846 {
+	height: 50px;
+}
+
+div.half img {
+	display: none;
+}
+
+@media only screen and (max-width:1156px) {
+	.condition {
+		font-size: 2.4vw;
+	}
+
+	.conditiontxt {
+		font-size: 1.48vw;
+	}
+
+	.conditionstext {
+		font-size: 2.3vw;
+		margin-top: -9.5%;
+		margin-left: 15%;
+	}
+
+	.seekit {
+		font-size: 1.9vw;
+		margin-left: 19.2%;
+		margin-top: -5%;
+	}
+
+	.destination {
+		font-size: 3.5vw;
+	}
+
+	.destinationtxt {
+		font-size: 1.38vw;
+	}
+
+	.bannertext {
+		font-size: 4.04vw;
+		margin-left: 13.5%;
+		margin-top: -17%;
+	}
+
+	.conditionslefttext {
+		margin-top: -73%;
+		margin-left: 3%;
+		width: 20%;
+	}
+
+	.form-list li label {
+		font-size: 1.4vw
+	}
+
+	p.destinationformtext {
+		font-size: 1.3vw
+	}
+
+	.input-box input.input-text {
+		padding: 8px;
+	}
+
+	div#field_846 {
+		padding-left: 0;
+	}
+
+}
+
+@media only screen and (max-width:979px) {
+	.input-box input.input-text {
+		width: 90% !important;
+	}
+
+}
+
+@media only screen and (max-width:767px) {
+	.desktopwrapper {
+		display: none;
+	}
+
+	.tabletwrapper {
+		display: block;
+	}
+
+	.conditionsimg {
+		width: 100%;
+	}
+
+	.conditionsproducts {
+		width: 100%;
+	}
+
+	.conditionslefttext {
+		margin-top: 0;
+		margin-left: 0;
+		width: 100%;
+		position: relative;
+	}
+
+	.condition {
+		font-size: 28px;
+		width: 100%;
+		margin-left: 0;
+		margin-bottom: 1.5%;
+	}
+
+	.conditiontxt {
+		font-size: 16px;
+		margin-top: 0;
+		font-weight: 400;
+		width: 80%;
+		margin: 0 auto;
+		padding-bottom: 3%;
+	}
+
+	.destination {
+		font-size: 4.1vw;
+		width: 85%;
+	}
+
+	.destinationtxt {
+		font-size: 16px;
+		width: 87%;
+	}
+
+	.quote {
+		font-size: 6.8vw;
+	}
+
+	.half {
+		width: 100%;
+	}
+
+	p.destinationformtext {
+		width: 95% !important;
+		font-size: 15px;
+		float: left !important;
+		text-align: left;
+		margin-left: 3%;
+	}
+
+	.input-box {
+		margin-top: -5%;
+	}
+
+	div#field_846 .input-box {
+		margin-top: -12%;
+	}
+
+	.form-list li label {
+		font-size: 16px;
+		width: 31%;
+	}
+
+	.input-box input {
+		height: 30px;
+	}
+
+	div#field_846 {
+		padding-left: 0;
+	}
+
+}
+
+@media only screen and (max-width:600px) {
+	.half {
+		width: 100%;
+	}
+
+}
+
+@media only screen and (max-width:500px) {
+	.input-box {
+		margin-top: 0;
+		width: 100%;
+	}
+
+	.form-list li label {
+		width: 100%;
+	}
+
+	div#field_846 .input-box {
+		margin-top: 0;
+	}
+
+	body.customer-account-create .form-list li,
+	.form-list li .field {
+		width: 99%;
+	}
+
+	li.fields div.webforms-fields-846 div.input-box {
+		margin-top: 0;
+	}
+
+}
+
+@media only screen and (max-width:480px) {
+	.tophalf {
+		width: 100%;
+	}
+
+	.conditionstext {
+		font-size: 5vw;
+		margin-top: -19%;
+		margin-left: 32%;
+	}
+
+	.seekit {
+		font-size: 4vw;
+		margin-left: 39%;
+		margin-top: -10%;
+	}
+
+	.downarrow {
+		margin-top: -10%;
+	}
+
+	.productimg {
+		width: 50%;
+	}
+
+	.destination {
+		font-size: 8.3vw;
+	}
+
+}
+
+/* END */
