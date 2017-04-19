@@ -2211,10 +2211,16 @@ p.collectionhighlights__hoverstate--header {
 }
 
 .fourblocks__container {
-  width: 24%;
-  margin-right: 1%;
-  float: left;
-  margin-bottom: 2%;
+    width: 23%;
+    margin-right: 1%;
+    margin-bottom: 2%;
+    display: inline-block;
+    float: none;
+}
+.brand__container{
+    float: left;
+    width: 100%;
+    text-align: center;
 }
 
 .fourblocks__container:nth-child(4) {
@@ -3257,7 +3263,7 @@ div#header-account {
     }
 
     .fourblocks__container {
-        width: 49%;
+        width: 48%;
         margin-right: 2%;
     }
 
